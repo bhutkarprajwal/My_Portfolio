@@ -1,15 +1,8 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Angular",
+        "icon": "https://avatars.githubusercontent.com/u/139426?s=48&v=4"
     },
-    
-    {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-   
-    
     {
         "name": "Android",
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
@@ -39,8 +32,8 @@
     },
     
     {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=48&id=13441&format=png"
     },
     
     {
@@ -62,7 +55,7 @@
    
     {
         "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "icon": "https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png"
     },
     {
         "name": "Git lab",
@@ -73,7 +66,13 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
-]
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png"
+    }
+  
+    
+] 
